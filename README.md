@@ -38,11 +38,22 @@ Data format conversion for object detection
 </annotation>
 ```
 ## 将nwpu格式转换为YOLO格式
-
+```
+python nwpu2yolo.py
+```
 ## YOLO格式转换为VOC格式
-
+```
+python yolo2voc.py
+```
 ## 遍历文件夹下文件，记录路径
-
+```
+creat_ID.py
+```
 ## 分训练验证集
-
+```
+separate_train_val.py
+```
 ## 画ground truth框
+```
+python make_gt.py
+```
