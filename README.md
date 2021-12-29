@@ -37,3 +37,12 @@ Data format conversion for object detection
 	</object>
 </annotation>
 ```
+## 将nwpu格式转换为YOLO格式
+
+## YOLO格式转换为VOC格式
+
+## 遍历文件夹下文件，记录路径
+
+## 分训练验证集
+
+## 画ground truth框
