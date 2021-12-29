@@ -9,14 +9,11 @@ Data format conversion for object detection
 
 ### YOLO格式
 类别 中心位置x相对坐标 中心位置y相对坐标 框相对宽 框相对长
-
-eg:
 ```
 0 0.6226513569937369 0.6503712871287128 0.06993736951983298 0.11757425742574258
 ```
 ### VOC格式
 是.xml格式
-eg:
 ```
 <annotation>
 	<folder>simple</folder>
