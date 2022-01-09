@@ -6,6 +6,11 @@ Data format conversion for object detection
 - YOLO 格式 
 - VOC 格式
 - COCO 格式
+## 常用的遥感目标检测的数据集主流格式
+- nwpu 数据集
+
+- DOTA 数据集
+![d29af925102f4de7c04c6f7618be942](https://user-images.githubusercontent.com/70151784/148685177-2f2c9a97-0cbe-427d-b152-d56587580713.png)
 
 ### YOLO格式
 类别 中心位置x相对坐标 中心位置y相对坐标 框相对宽 框相对长
@@ -41,6 +46,8 @@ Data format conversion for object detection
 ```
 python nwpu2yolo.py
 ```
+## 将DOTA格式转换为YOLO格式
+
 ## YOLO格式转换为VOC格式
 ```
 python yolo2voc.py
