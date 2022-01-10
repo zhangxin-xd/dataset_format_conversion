@@ -57,6 +57,10 @@ python dota2yolo.py
 ```
 python yolo2dota.py
 ```
+## DOTA格式转换为VOC格式
+```
+python dota2voc.py
+```
 ## 遍历文件夹下文件，记录路径
 ```
 creat_ID.py
