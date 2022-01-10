@@ -8,7 +8,10 @@ Data format conversion for object detection
 - COCO 格式
 ## 常用的遥感目标检测的数据集主流格式
 - nwpu 数据集
-
+左上位置x,y 右下位置x,y 类别
+```
+(563,478),(630,573),1 
+```
 - DOTA 数据集
 ![d29af925102f4de7c04c6f7618be942](https://user-images.githubusercontent.com/70151784/148685177-2f2c9a97-0cbe-427d-b152-d56587580713.png)
 
